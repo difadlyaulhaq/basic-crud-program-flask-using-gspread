@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flask CRUD with Excel</title>
+</head>
+<body>
+    <h1>Employee Records</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for record in data %}
+            <tr>
+                <td>{{ record['ID'] }}</td>
+                <td>{{ record['Name'] }}</td>
+                <td>{{ record['Age'] }}</td>
+                <td>
+                    <form action="/delete/{{ record['ID'] }}" method="POST">
+                        <button type="submit">Delete</button>
+                    </form>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    
+    <br>
+    <h2>Add New Employee</h2>
+    <form action="/add" method="post">
+        ID: <input type="number" name="ID"><br><br>
+        Name: <input type="text" name="Name"><br><br>
+        Age: <input type="number" name="Age"><br><br>
+        <input type="submit" value="Add">
+    </form>
+</body>
+</html>

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sigma-cairn-405214",
+  "private_key_id": "700ce76cf826b0da7790a54581f11c53667cb957",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1rR8l12f6RpnO\n5shnFE/NE3FZKS98HCEzOUFHWL3h4mIsNffVUrhBBYHT6vAB6CVC4cSjE4DuXKsa\ncCUWksls+ERPNeAZ2ah1sTwGJX5GuBOFTUulY6eAjYeAUq2uOVcuFL9Rt8NceZ72\nAaxTODZnzWnmf+m+hFWqIJ+y8a/WJV6dizNxTu6UtYUGTJ/FPtaMeQD/vCbdOQEY\nynee4wP9d2ILQ48nWsERpYMxgS+4ev/HxPlADcdpLG1RtakJLNLJ4jUmOIQNOXXv\nxy28mqlLngc0b+6GN7GG83S2L59FlIFlzJkJt+Qmx9S08xl/7rak4rIEmBtBlqWa\nlS1Eh7/3AgMBAAECggEAArKUDCWkuKmFDcoCHbhRgsLUVy7RQ1ABF6ykEoTC6mlv\nOiGnRfSXEPidl9JGozc4JvCqr41JkE5pjdAB/rYM3U5Jc3VL4HLoMmC9vWaUpAIi\nLoDlYLcmEcHTWvXAtYeeCsskovhb9uEjsAnpfsLtMlCNOO6r8Zlb6Q1dsmDgR5Rs\n587dFBgtQHl1hRIYT2pka5QmlNqsOAsXLBAbKPDTkLpbCdMvLYfO+E98Qf53d4F3\nPMQ8JHDmlH4MZR5DtHqhHYwzqRgHWKuSMMmmsoArr/hy4CbrULepKgBpR2RqP9uW\noseyP+SA/7/ARiVQTYCuSsIAAl2V5SqBmh7ZLcnT/QKBgQD6usd+uJ43kooPfbnC\nblLDpm9V2wboKYdR6bfxlseTQn5z891DXK3dQFsAz1DxBiE0kbCLviiVhTdJi7J4\ncIJ0eDC+Nm6dw78fOgc3nMbcvFPhXSMiA85Fl1dDnKYH7n0YtQMNY27zLpsxEyjt\n+H33sfDFouVZsSPPKf1/0grkTQKBgQC5fsEGZOtzEpc6ySU6bNGGDAoA/ANmGbyt\nQCIhGgo1FvRwbny+EFv+kYBknC7dkQs4IyVOPyv2Ss2ToLYO7WnPb0BbQNQm/bSh\nEM3FZIqql3pO3B4vpB7GI6OWR9suaob6IBDwhVtYUGMftFYWc4xdk34FMox3pgSd\nATjdBxgnUwKBgQC4RqSuzzOBtpL/1bC8ZOcxYta7LDJEWZlaK8OErQPbiGh2Akqh\n4rDqRw1baAOeUZoAD//IhSdA1VsQE7tE57QJs/hnJIxiKWcDpVt+lRxXSZcAsLpM\nmq102klJqQ0iETch/I/UvDrkQmHPTLytQhAbB03lg9a6+AVQkhT9Z7uXlQKBgDx/\n4fby7XQvqRFsT28Z1NCSlqSxjW48kLQ1CaygMJoWLY2KC7d14HtL+4NVCVgMmYsq\ns10s72q6BQjUTuzZdDxKvcPFhixdbQ9nSqXJ4Aw5sZOM6W+CaOMY9p7qOsuNxQ5J\nbRz1cdCBD4NkrvtNnodatqx9SyEvDawjnOdCDBevAoGBAK620ZjVuJBcwoU2QoPN\nPu7gcx6IHeqptvbQpNNaW0SFDJ78Aji7RdmUbHqWL0MSY/tn43YzV/Z4pBvhREqs\nw7trYHDxMai/4ZWIeodHMg0Q5N+D/Xk2fU7A+JPKw4E8PEMovUqxP1MelcmOBln2\nWolnZf3ZbC+2fecLj/UITfmA\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-543@sigma-cairn-405214.iam.gserviceaccount.com",
+  "client_id": "112295017775208214793",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-543%40sigma-cairn-405214.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
